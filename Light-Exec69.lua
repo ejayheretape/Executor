@@ -1,3 +1,6 @@
+--[[not obfuscated obviously 
+you can skid now you players.
+]]
 if isfolder and makefolder then
     local folderName = "LightExec"
     if not isfolder(folderName) then
